@@ -40,7 +40,7 @@
         <span class="team-role">PhD Researcher</span>
       </div>
       <div class="team-card">
-        <div class="team-photo"><img src="{{ asset('img/student31.png') }}" alt="Graduate Research Assistant" loading="lazy" onerror="imgFallback(this)"><div class="placeholder" style="display:none;"><span>public/img/team-2.jpg</span></div></div>
+        <div class="team-photo"><img src="{{ asset('img/gra.jpeg') }}" alt="Graduate Research Assistant" loading="lazy" onerror="imgFallback(this)"><div class="placeholder" style="display:none;"><span>public/img/team-2.jpg</span></div></div>
         <span class="team-role">Graduate Research Assistant</span>
       </div>
       <div class="team-card">
@@ -48,8 +48,9 @@
         <span class="team-role">Undergraduate Researcher</span>
       </div>
       <div class="team-card">
-        <div class="team-photo team-photo--placeholder"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 12a4 4 0 1 0 0-8 4 4 0 0 0 0 8Z"></path><path d="M5 20c0-3.9 3.13-7 7-7s7 3.1 7 7"></path></svg></div>
-        <span class="team-role">Research Assistant</span>
+       <div class="team-photo"><img src="{{ asset('img/test.png') }}" alt="Undergraduate Researcher" loading="lazy" onerror="imgFallback(this)"><div class="placeholder" style="display:none;"><span>public/img/team-3.jpg</span></div></div>
+        <span class="team-role">Undergraduate Researcher</span>
+      </div>
       </div>
     </div>
   </div>
